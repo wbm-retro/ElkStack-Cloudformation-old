@@ -1,4 +1,4 @@
-ELK Stack with AWS ES
+ELK Stack with AWS ES (work in progress)
 ===========================
 
 ELK stands for Elasticsearch, Logstash and Kiabna and is being promoted by Elasticsearch as a "devops" logging solution. 
